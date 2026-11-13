@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131645989505",
+    "project_id": "cafeconecta-jorlan",
+    "storage_bucket": "cafeconecta-jorlan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131645989505:android:0017f80889d11b93fde380",
+        "android_client_info": {
+          "package_name": "com.example.cafeconecta_aplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ift6GDX3dq7q-wMVRuq_iBzA1vF2PVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
